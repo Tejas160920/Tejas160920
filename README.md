@@ -1,9 +1,9 @@
 Hola! Yo soy Tejas Gaikwad! 👋
 
-    🔭 I’m currently working on Deep Learning (Neural Networks), Blockchains and new music!
-    🌱 I’m currently learning Blockchains, Flutter, Machine Learning, Deep Learning and Spanish!
-    👯 I’m looking to collaborate on making apps, websites and so on..
-    🤔 I’m looking for help with Machine Learning and DSA.
-    💬 Ask me about Frontend Web Development!
-    😄 Pronouns: He/Him
-    ⚡ Fun fact: Curious 24*7!
+🔭 I’m currently working on Machine Learning (including Neural Networks), Deep Learning, and Data Analysis.
+🌱 I’m currently learning Advanced Machine Learning techniques, Data Structures & Algorithms (DSA), and exploring applications of AI in real-world problems.
+👯 I’m looking to collaborate on AI/ML projects, innovative applications of data science, and research opportunities in Machine Learning.
+🤔 I’m seeking mentorship and opportunities to grow in Machine Learning and AI-driven development.
+💬 Ask me about Machine Learning, Python!
+😄 Pronouns: He/Him
+⚡ Fun fact: Passionate about leveraging AI to solve real-world challenges and always curious to learn new things!
